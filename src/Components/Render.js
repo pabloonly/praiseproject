@@ -5,7 +5,7 @@ import groupts from '../Asset/groupts.png'
 
 
 const Render = () => {
-    const [value, setValue] = useState(0)
+    // const [value, setValue] = useState(0)
     const [data, setData] = useState([])
     const [isLoading, setIsLoading] = useState(true)
  

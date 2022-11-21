@@ -26,7 +26,7 @@ const Next = () => {
         <div className='jij'>
        
             <h5 className='ipt'><b>   <img src={vector3} alt="" /> Buy/Sell Crypto</b></h5>
-            <span>Buy BTC,USDT,ETH,LTC,XRP,DOGE and security store it in your wallet or send it easily to friends and family</span>
+            <span>Buy BTC,USDT,ETH,LTC,XRP, DOGE and security store it in your wallet or send it easily to friends and family</span>
             <img id='pop' src={sellgirl} alt="" />
         </div>
     </div>
